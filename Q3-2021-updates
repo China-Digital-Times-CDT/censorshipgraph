@@ -1,6 +1,7 @@
 
 In the passing 2 months(Aug-Oct, 2021), core team has been called up to start working on architecture design and conceptual ideas. The following foundationis have been built up within this period:
 
+0. Project name changed to "Censorship Graph" from "Censorship Map"
 1. The architecture design document and github repo setup
 2. Two "steathy" social media channels were setup and started to collect relevant topic the same time tagged 2000+ different coverages
 3. An demo version of data-drive censorship graph has been created by team (yet to publish to community)
