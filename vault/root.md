@@ -1,11 +1,11 @@
 ---
 id: 4isjXYVuLrirzEY6HxdBE
-title: Root
+title: 审查地图（v2.0.1)
 desc: ''
-updated: 1644382536858
+updated: 1644419628992
 created: 1644382378522
 ---
-# 欢迎加入（被）审查族
+## 欢迎加入（被）审查族
 
 审查是一个人类历史的特有现象，从部落文明开始，人们就学会了如何控制个体的言论，并用不同的手段来达到控制的目的。
 
@@ -17,4 +17,4 @@ created: 1644382378522
 - [实现方法](https://link.dendron.so/6b25)
 - [源代码](https://link.dendron.so/6b24)
 - [讨论](https://link.dendron.so/6b23)
-- [开源工具]](https://wiki.dendron.so/)
+- [开源工具](https://wiki.dendron.so/)
