@@ -13,7 +13,7 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
+    title: 审查地图
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
