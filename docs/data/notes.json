@@ -1,0 +1,148 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1644417927374,
+      "created": 1644417927375,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "4isjXYVuLrirzEY6HxdBE": {
+      "id": "4isjXYVuLrirzEY6HxdBE",
+      "title": "Root",
+      "desc": "",
+      "updated": 1644382536858,
+      "created": 1644382378522,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ba5f38eb23c2c50eac892862568984f6",
+      "links": [],
+      "anchors": {
+        "欢迎加入被审查族": {
+          "type": "header",
+          "text": "欢迎加入（被）审查族",
+          "value": "欢迎加入被审查族",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "如何使用审查地图": {
+          "type": "header",
+          "text": "如何使用审查地图",
+          "value": "如何使用审查地图",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "4isjXYVuLrirzEY6HxdBE",
+      "title": "Root",
+      "desc": "",
+      "updated": 1644382536858,
+      "created": 1644382378522,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ba5f38eb23c2c50eac892862568984f6",
+      "links": [],
+      "anchors": {
+        "欢迎加入被审查族": {
+          "type": "header",
+          "text": "欢迎加入（被）审查族",
+          "value": "欢迎加入被审查族",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "如何使用审查地图": {
+          "type": "header",
+          "text": "如何使用审查地图",
+          "value": "如何使用审查地图",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "# 欢迎加入（被）审查族\n\n审查是一个人类历史的特有现象，从部落文明开始，人们就学会了如何控制个体的言论，并用不同的手段来达到控制的目的。\n\n\n## 如何使用审查地图\n\n审查地图是一个开源项目，你可以按图索骥，也可以补充完善，或者与更多人分享。\n\n- [实现方法](https://link.dendron.so/6b25)\n- [源代码](https://link.dendron.so/6b24)\n- [讨论](https://link.dendron.so/6b23)\n- [开源工具]](https://wiki.dendron.so/)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "4isjXYVuLrirzEY6HxdBE",
+    "title": "Root",
+    "desc": "",
+    "updated": 1644382536858,
+    "created": 1644382378522,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "ba5f38eb23c2c50eac892862568984f6",
+    "links": [],
+    "anchors": {
+      "欢迎加入被审查族": {
+        "type": "header",
+        "text": "欢迎加入（被）审查族",
+        "value": "欢迎加入被审查族",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "如何使用审查地图": {
+        "type": "header",
+        "text": "如何使用审查地图",
+        "value": "如何使用审查地图",
+        "line": 12,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": "# 欢迎加入（被）审查族\n\n审查是一个人类历史的特有现象，从部落文明开始，人们就学会了如何控制个体的言论，并用不同的手段来达到控制的目的。\n\n\n## 如何使用审查地图\n\n审查地图是一个开源项目，你可以按图索骥，也可以补充完善，或者与更多人分享。\n\n- [实现方法](https://link.dendron.so/6b25)\n- [源代码](https://link.dendron.so/6b24)\n- [讨论](https://link.dendron.so/6b23)\n- [开源工具]](https://wiki.dendron.so/)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
