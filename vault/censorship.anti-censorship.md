@@ -1,13 +1,20 @@
 ---
 id: vJRHPlmEzy8aoLmJq2EoS
-title: 反审查工具
+title: Anti Censorship
 desc: ''
-updated: 1644486141536
+updated: 1644486446999
 created: 1644485533066
 ---
 
-## 审查相关工具
+## 反审查工具
 
+- [互联网档案馆](https://help.archive.org/hc/en-us/articles/360001513491-Save-Pages-in-the-Wayback-Machine)  （备份任何网页）
+
+
+## 审查研究工具
+
+- [OONI观察站](https://explorer.ooni.org/country/CN)
+- [GreatFire](https://greatfire.org/cn)
 
 ## 辅助分析工具
 - [主机IP查询工具](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=location.country%3A+China) (示例查询一个国家的 IPv4 主机)
