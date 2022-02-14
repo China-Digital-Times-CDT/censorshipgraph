@@ -1,6 +1,6 @@
 ---
 id: EW05BFjl1ivR37Yv0wBIM
-title: Technology
+title: 技术
 desc: ''
 updated: 1644549583780
 created: 1644549468360

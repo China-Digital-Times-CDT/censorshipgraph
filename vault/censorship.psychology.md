@@ -1,8 +1,8 @@
 ---
 id: 7w0Rte16ynjy1n8BCmB35
-title: Social_psychological
+title: Psychology
 desc: ''
-updated: 1644485155160
+updated: 1644806497927
 created: 1644485137846
 ---
 
