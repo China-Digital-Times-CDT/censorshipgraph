@@ -1,10 +1,11 @@
 ---
-id: tR2J5exU7aOAZDQIBDljW
+id: LarOcMrJVqrb8xIwcDYLH
 title: 防火长城
 desc: ''
-updated: 1644576023203
-created: 1644576023203
+updated: 1644809769644
+created: 1644809769644
 ---
+
 
 防火长城（Great Firewall）简称 GFW，或墙。
 
