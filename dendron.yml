@@ -8,6 +8,7 @@ dev:
 site:
     siteUrl: https://china-digital-times-cdt.github.io/censorshipgraph/
     copyAssets: true
+    assetsPrefix: /censorshipgraph
     siteHierarchies:
         - root
     siteRootDir: docs
