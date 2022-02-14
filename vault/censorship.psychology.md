@@ -1,6 +1,6 @@
 ---
 id: 7w0Rte16ynjy1n8BCmB35
-title: Psychology
+title: 审查心理学
 desc: ''
 updated: 1644806497927
 created: 1644485137846
