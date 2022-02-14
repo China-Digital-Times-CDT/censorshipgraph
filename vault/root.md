@@ -2,12 +2,12 @@
 id: 4isjXYVuLrirzEY6HxdBE
 title: 开篇
 desc: ''
-updated: 1644463595290
+updated: 1644849078672
 created: 1644382378522
 ---
 ## 欢迎访问审查地图
 
-![](/assets/images/2022-02-14-20-28-55.png)
+![](/assets/images/logo.png)
 
 审查是一个人类历史的特有现象，从部落文明开始，人们就学会了如何控制个体的言论，并用不同的手段来达到控制的目的。
 

@@ -7,13 +7,13 @@ dev:
     enablePreviewV2: true
 site:
     siteUrl: https://china-digital-times-cdt.github.io/censorshipgraph/
-    assetsPrefix: /censorshipgraph
     copyAssets: true
     siteHierarchies:
         - root
     siteRootDir: docs
     usePrettyRefs: true
     title: 审查地图
+    logo: vault/assets/images/logo.png
     description: Mapping China's censorship system and preserve them for our future generations
     siteLastModified: true
     gh_edit_branch: master
