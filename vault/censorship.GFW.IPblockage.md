@@ -1,6 +1,6 @@
 ---
 id: 52dY8Qqg5jc1SVO9pZiet
-title: IPblockage
+title: 封锁IP地址
 desc: ''
 updated: 1644811918125
 created: 1644811918125

@@ -14,9 +14,10 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: 审查地图
-    description: Personal knowledge space
+    description: Mapping China's censorship system and preserve them for our future generations
     siteLastModified: true
-    gh_edit_branch: main
+    gh_edit_branch: master
+    gh_edit_repository: 'https://china-digital-times-cdt.github.io/censorshipgraph'
     duplicateNoteBehavior:
         action: useVault
         payload:

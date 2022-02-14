@@ -1,6 +1,6 @@
 ---
 id: U1jPkSOTGBUnj2E2rB4HG
-title: DNSpoisoning
+title: 域名投毒
 desc: ''
 updated: 1644809473480
 created: 1644809473480
@@ -13,6 +13,8 @@ DNS投毒（DNS Poisoning）是 #GFW 的一个重要手段，是利用传统的�
 由于防火长城是一个通路的（on-path）/旁观者（man-on-the-side）的系统 ，所以它没办法通过修改或者简单丢弃互联网上传输的那些被封锁的域名的 DNS 查询响应。但是由于 DNS 使用无状态、未加密的 UDP 协议进行传输，所以 GFW 可以通过可以实时监测互联网上的流量，当在用户的 DNS 查询中检测到受审查的内容时，注入错误的响应。
 
 当一个子域名被封锁时，顶级域名可能不会被封锁。例如，cs.colorado.edu 被防火长城封锁了，而 colorado.edu 却没有被封锁，这说明GFW 有时候也考虑到过渡封锁带来的[[censorship.collateraldamage]]。
+
+根据一些研究，至少有 31.1 万个域名被 GFW 的 DNS 过滤系统干扰。并且 GFW 还主动出击，在世界范围内污染了公共 DNS 解析服务（public DNS resolvers）中至少 7.7 万个域名的数据，其中包括谷歌和 Cloudflare 的 DNS 解析器。
 
 ## DNS投毒的实例
 
@@ -28,3 +30,5 @@ DNS投毒给了GFW发动资源耗尽攻击（resource exhaustion attacks）的�
 ## 参考资料
 
 - [The Great Firewall of China: A Digital Black Hole](https://www.catchpoint.com/blog/great-firewall-of-china) 
+- [How Great is the Great Firewall?
+Measuring China’s DNS Censorship](https://www.usenix.org/system/files/sec21-hoang.pdf)
