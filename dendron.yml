@@ -17,7 +17,7 @@ site:
     description: Mapping China's censorship system and preserve them for our future generations
     siteLastModified: true
     gh_edit_branch: master
-    gh_edit_repository: 'https://china-digital-times-cdt.github.io/censorshipgraph'
+    gh_edit_repository: 'https://github.com/China-Digital-Times-CDT/censorshipgraph'
     duplicateNoteBehavior:
         action: useVault
         payload:
