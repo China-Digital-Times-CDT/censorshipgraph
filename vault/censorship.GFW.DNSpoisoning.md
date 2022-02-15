@@ -23,7 +23,7 @@ DNS投毒（DNS Poisoning）是 #GFW 的一个重要手段，是利用传统的�
 
 ## DNS投毒的影响
 
-[[censorship.collateraldamage]]，影响国民和全球经济。
+因为DNS系统是一个全球的协同网络，所以对其投毒会给其他国家的网络域名解析带来 [[censorship.collateraldamage]]，从而无形中也影响到他国国民经济和[全球经济稳定](https://news.ycombinator.com/item?id=8931827)，当然也极大影响了中国的形象。
 
 DNS投毒给了GFW发动资源耗尽攻击（resource exhaustion attacks）的可能性。 一旦 GFW 将 DNS 查询的结果大量导向某个 IP 地址，受影响的组织将在服务器上付出不可忽视的开销。
 
@@ -32,3 +32,6 @@ DNS投毒给了GFW发动资源耗尽攻击（resource exhaustion attacks）的�
 - [The Great Firewall of China: A Digital Black Hole](https://www.catchpoint.com/blog/great-firewall-of-china) 
 - [How Great is the Great Firewall?
 Measuring China’s DNS Censorship](https://www.usenix.org/system/files/sec21-hoang.pdf)
+- [Exhaustive study puts China’s infamous Great Firewall under the microscope](https://portswigger.net/daily-swig/exhaustive-study-puts-chinas-infamous-great-firewall-under-the-microscope)
+- [How Great is the Great Firewall?](https://www.usenix.org/system/files/sec21-hoang.pdf)
+- [One in four Google Public DNS requests are being intercepted in China: report](https://blog.apnic.net/2019/07/17/one-in-four-google-public-dns-requests-are-being-intercepted-in-china-report/)
