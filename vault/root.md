@@ -2,7 +2,7 @@
 id: 4isjXYVuLrirzEY6HxdBE
 title: 欢迎
 desc: ''
-updated: 1644849078672
+updated: 1644980559712
 created: 1644382378522
 ---
 
@@ -16,7 +16,7 @@ created: 1644382378522
 
 审查地图是一个开源项目，你可以按图索骥，也可以补充完善，或者与更多人分享。
 
-- [[实现方法 | underlying]]     
+- [[实现方法|underlying]]     
 - [源代码](https://github.com/China-Digital-Times-CDT/censorshipgraph)
 - [讨论](https://github.com/China-Digital-Times-CDT/censorshipgraph/issues)
 - [[开源工具 | underlying.tools]]
