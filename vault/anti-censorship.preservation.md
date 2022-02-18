@@ -8,7 +8,12 @@ created: 1644899804071
 
 保留原始的内容可以让审查者无法达到其删除或隐藏真实信息的目的，也是对抗社会记忆随着时间逐步衰减的方法。
 
-## 存档方法
+## 存档实例
+
+- [穿越GFW的技术](https://web.archive.org/web/20100403051418/http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8) (原网址 http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8 已经失效)
+
+
+## 方法
 
     1. 网页截图
     2. 互联网档案馆
