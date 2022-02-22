@@ -1,6 +1,6 @@
 ---
 id: yeRguGPFZ2K00F28LYLY6
-title: Taxomony
+title: 分类方法
 desc: ''
 updated: 1644484675338
 created: 1644484671565
