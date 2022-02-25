@@ -6,6 +6,10 @@ updated: 1644806497927
 created: 1644485137846
 ---
 
+## 草泥马 
+
+正常的网络用户当然对网络审查非常不满。
+
 
 ## 审查支持者的逻辑：
 
@@ -14,3 +18,9 @@ created: 1644485137846
 
 奇怪逻辑：A->B, b发生了，一定有其他C
 
+
+
+
+## References
+
+- [Batman, Pandaman and the Blind Man: A Case Study in Social Change Memes and Internet Censorship in China](https://journals.sagepub.com/doi/pdf/10.1177/1470412914546576),  by An Xiao Mina

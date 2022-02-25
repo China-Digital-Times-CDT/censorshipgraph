@@ -10,7 +10,8 @@ created: 1644899804071
 
 ## 存档实例
 
-- [穿越GFW的技术](https://web.archive.org/web/20100403051418/http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8) (原网址 http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8 已经失效)
+- [穿越GFW的技术](https://web.archive.org/web/20100403051418/http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8) (使用工具 archive.org，原网址 http://course.ccert.edu.cn/2009/wiki/index.php/Talk:Group8 已经在2019年左右失效)
+- [香港独立媒体](https://archive.is/DxMOD) (使用工具 Arhive.js，原网址 http://www.inmediahk.net/ 并未失效，但是可能随时发生)
 
 
 ## 方法
@@ -23,3 +24,4 @@ created: 1644899804071
 ## 参考资料
 
 - [《人民失忆共和国》(The People's Republic of Amnesia : Tiananmen Revisited)](https://books.google.com.hk/books/about/The_People_s_Republic_of_Amnesia.html?id=MXVYAwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false)
+- [Where Did the Web Archive Go?](https://arxiv.org/pdf/2108.05939.pdf)

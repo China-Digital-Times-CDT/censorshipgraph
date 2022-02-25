@@ -1,6 +1,28 @@
-version: 5
+version: 4
+useFMTitle: true
+useNoteTitleForLink: true
+mermaid: true
+useKatex: true
 dev:
     enablePreviewV2: true
+site:
+    siteUrl: https://china-digital-times-cdt.github.io/censorshipgraph/
+    copyAssets: true
+    assetsPrefix: /censorshipgraph
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: 审查地图
+    logo: vault/assets/images/logo.png
+    description: Mapping China's censorship system and preserve them for our future generations
+    siteLastModified: true
+    gh_edit_branch: master
+    gh_edit_repository: 'https://github.com/China-Digital-Times-CDT/censorshipgraph'
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
 commands:
     lookup:
         note:
@@ -18,7 +40,6 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
-    copyNoteLink: {}
 workspace:
     vaults:
         -
@@ -64,7 +85,6 @@ workspace:
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
-    dendronVersion: 0.83.0
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -72,37 +92,3 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
-publishing:
-    enableFMTitle: true
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enablePrettyRefs: true
-    enableKatex: true
-    assetsPrefix: /censorshipgraph
-    copyAssets: true
-    logoPath: vault/assets/images/logo.png
-    siteHierarchies:
-        - root
-    enableSiteLastModified: true
-    siteRootDir: docs
-    siteUrl: 'https://china-digital-times-cdt.github.io/censorshipgraph/'
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-    writeStubs: false
-    seo:
-        title: 审查地图
-        description: >-
-            Mapping China's censorship system and preserve them for our future
-            generations
-    github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
-        editBranch: master
-        editViewMode: tree
-        editRepository: 'https://github.com/China-Digital-Times-CDT/censorshipgraph'
-    enablePrettyLinks: true
