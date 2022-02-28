@@ -28,6 +28,9 @@ jobs:
     - name: Install dependencies
       run: yarn
 
+    - name: Print version
+      run: yarn dendron-cli -- --version
+      
     - name: Restore Next cache
       uses: actions/cache@v2
       with:
