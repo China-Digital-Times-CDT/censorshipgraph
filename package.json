@@ -1,5 +1,13 @@
+
 {
-  "dependencies": {
-    "@dendronhq/dendron-cli": "^0.81.0"
-  }
+    "name": "dendron-site",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dendron": "dendron-cli"
+    },
+    "dependencies": {
+        "@dendronhq/dendron-cli": "*"
+    }
 }
