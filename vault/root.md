@@ -1,8 +1,8 @@
 ---
 id: 4isjXYVuLrirzEY6HxdBE
-title: 欢迎
+title: 探索起点
 desc: ''
-updated: 1644980559712
+updated: 1646712715590
 created: 1644382378522
 ---
 
@@ -19,4 +19,4 @@ created: 1644382378522
 - [[实现方法|underlying]]     
 - [源代码](https://github.com/China-Digital-Times-CDT/censorshipgraph)
 - [讨论](https://github.com/China-Digital-Times-CDT/censorshipgraph/issues)
-- [[开源工具 | underlying.tools]]
+- [[开源工具 | underlying]]
