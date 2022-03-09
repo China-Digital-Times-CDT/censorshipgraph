@@ -6,6 +6,8 @@ updated: 1644486446999
 created: 1644485533066
 ---
 
+
+
 ## 反审查工具
 
 - [互联网档案馆](https://help.archive.org/hc/en-us/articles/360001513491-Save-Pages-in-the-Wayback-Machine)  （备份任何网页）

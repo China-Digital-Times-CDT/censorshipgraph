@@ -10,7 +10,7 @@ created: 1644897839290
 
 ## 自创假新闻
 
-一个知名的案例是在2021年Covid-19 病毒流行阶段，中国官方媒体上出现了一个“知名”的[瑞士专家](https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%A3%AB%E4%B8%93%E5%AE%B6) "Wilson Edwards" 对Covid-19 病毒发表的观点，多数是赞成中国的防疫政策、国产疫苗或对病毒起源的反对。瑞士政府为此专门调查并经驻北京大使馆[发表声明](https://chinadigitaltimes.net/chinese/669487.html)，证实此人根本不存在。
+一个知名的案例是在2021年Covid-19 病毒流行阶段，中国官方媒体上出现了一个“知名”的[瑞士专家](https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%A3%AB%E4%B8%93%E5%AE%B6) "Wilson Edwards" 对Covid-19 病毒发表的观点，多数是赞成中国的防疫政策、国产疫苗或反对调查病毒起源。瑞士政府为此专门调查并经驻北京大使馆[发表声明](https://chinadigitaltimes.net/chinese/669487.html)，证实此人根本不存在。
 
 另一个知名的案例是俄罗斯官方媒体推荐一个法国“记者”的视频，用来指控乌克兰军队“屠杀”顿巴斯地区的居民。后经过媒体和民间调查这位记者根本没有可能在当时进入顿巴斯采访拍摄，而且对其“报道”的居民死亡数字（13000），完全是[拼接而成](https://twitter.com/angrytoad2046/status/1500096162375913473)。但是因为俄国官方的推荐，中国官方媒体则毫无迟疑地配合这种宣传。
 
