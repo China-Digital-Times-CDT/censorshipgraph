@@ -2,11 +2,26 @@
 id: pKZe7ebCpgo7G5umgbW4r
 title: 存档
 desc: ''
-updated: 1644899813765
+updated: 1646877918164
 created: 1644899804071
 ---
 
 保留原始的内容可以让审查者无法达到其删除或隐藏真实信息的目的，也是对抗社会记忆随着时间逐步衰减的方法。
+
+## 工具
+
+- https://archiveweb.page/
+- https://archive.is/
+- [Wayback Machine](http://web.archive.org/)
+
+
+## 方法
+
+    1. 网页截图
+    2. 互联网档案馆 
+    3. 维基百科
+    4. 分享到社交媒体
+
 
 ## 存档实例
 
@@ -14,12 +29,6 @@ created: 1644899804071
 - [香港独立媒体](https://archive.is/DxMOD) (使用工具 Arhive.js，原网址 http://www.inmediahk.net/ 并未失效，但是可能随时发生)
 
 
-## 方法
-
-    1. 网页截图
-    2. 互联网档案馆
-    3. 维基百科
-    4. 分享到社交媒体
 
 ## 参考资料
 

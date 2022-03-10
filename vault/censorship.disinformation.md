@@ -2,7 +2,7 @@
 id: P4Bc5OxNsCoXxvn9RwGkb
 title: 伪造信息
 desc: ''
-updated: 1646727091293
+updated: 1646877435948
 created: 1644897839290
 ---
 
@@ -23,3 +23,8 @@ A History of the Future in 100 Objects，中文版审查掉了 9 个故事，书
 ## 伪造信息（Disinformation）和错误信息（Misinformation）的差别
 
 伪造信息是有意为之，而错误信息则常常来自于对来源缺乏查验。对审查者来说，伪造信息的目的是利用信息受众对信息的渴求有意制造假信息并在社交媒体上传播，可以形成媒姆(Meme)效应，有效干扰用户对其他信息的获取。
+
+
+## 参考资料
+
+- [Difference between MISinformation and DISinformation](https://twitter.com/firstdraftnews/status/1498086037083475968)
