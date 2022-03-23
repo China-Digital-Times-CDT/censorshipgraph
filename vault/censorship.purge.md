@@ -1,6 +1,6 @@
 ---
 id: lcxdAODpHWs3GhZXh7eTe
-title: 全网封杀
+title: Purge
 desc: ''
 updated: 1644806485547
 created: 1644801605870
