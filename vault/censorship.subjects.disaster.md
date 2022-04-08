@@ -2,7 +2,7 @@
 id: hlx9isc0jvv6qmzo8by99lz
 title: 灾难
 desc: ''
-updated: 1648091686500
+updated: 1649325334282
 created: 1648091686500
 ---
 
@@ -20,3 +20,4 @@ created: 1648091686500
 ## 参考资料
 
 - [东航失事客机一部黑匣子被找到，当局严控信息传播](https://cn.nytimes.com/china/20220324/china-crash-black-box-found/)
+- [ Tracking Control Moving on from Tragedy ](https://chinamediaproject.org/2022/03/29/moving-on-from-tragedy/)

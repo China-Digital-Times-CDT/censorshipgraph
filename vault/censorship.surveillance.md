@@ -5,11 +5,14 @@ desc: ''
 updated: 1647493163493
 created: 1644806941177
 ---
+#privacy #Baidu #BigTech 
 
 
 监控(Surveillance) 和审查是相互支持的。凭借强大的监控手段，审查可以更加精准，同时监控本身具有令人心惊的[寒蝉效应](https://zh.wikipedia.org/wiki/%E5%AF%92%E8%9F%AC%E6%95%88%E6%87%89)(Chilling Effect)。
 
 ## 中国的监控网络
+
+在中国，政府在科技公司的帮助下已在全国推行智慧警务，但被指主要目的为追踪和预测维权、异见人士和少数民族的动态。
 
 早期的监控只针对异见人士，但是因为没有任何抵制，这种监控逐步扩大到个个层面，甚至进入了偏远的山村。
 
@@ -29,4 +32,6 @@ created: 1644806941177
 
 因为国家对个人隐私的侵犯已经无处不在，商业活动自然也对此毫无顾忌。在中国，即使是吃饭点餐也不免遇到泄露或[被隐私绑架的情况](https://web.archive.org/web/2/https://www.ithome.com/0/608/140.htm)，也有用户炫耀自己的豪华消费时被网友戏弄。
 
-#privacy #Baidu #BigTech 
+## 参考资料
+
+- [智慧警务](https://chinadigitaltimes.net/space/%E6%99%BA%E6%85%A7%E8%AD%A6%E5%8A%A1)
