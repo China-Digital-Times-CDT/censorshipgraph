@@ -85,7 +85,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://china-digital-times-cdt.github.io/censorshipgraph/'
+    siteUrl: 'https://china-digital-times-cdt.github.io/'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
