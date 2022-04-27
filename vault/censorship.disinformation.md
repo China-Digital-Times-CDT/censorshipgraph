@@ -2,7 +2,7 @@
 id: P4Bc5OxNsCoXxvn9RwGkb
 title: 伪造信息
 desc: ''
-updated: 1646877435948
+updated: 1651066038650
 created: 1644897839290
 ---
 
@@ -24,7 +24,12 @@ A History of the Future in 100 Objects，中文版审查掉了 9 个故事，书
 
 伪造信息是有意为之，而错误信息则常常来自于对来源缺乏查验。对审查者来说，伪造信息的目的是利用信息受众对信息的渴求有意制造假信息并在社交媒体上传播，可以形成媒姆(Meme)效应，有效干扰用户对其他信息的获取。
 
+阴谋论也成为官方的雇佣手段，在一些灾难（例如“MU5735航班坠毁” ）发生时，大量的五毛/水军会出现在社交媒体，例如机器人账号或各种[[fiftycentparty]]帐号发出类似的信息“美国军方故意控制MU5735航班坠毁”[^1]，污染用户的时间线。
+
 
 ## 参考资料
 
 - [Difference between MISinformation and DISinformation](https://twitter.com/firstdraftnews/status/1498086037083475968)
+
+
+[^1]: [【五毛话术】“美国军方故意控制MU5735航班坠毁”、“波音公司应全球停飞”](https://chinadigitaltimes.net/chinese/678749.html)
