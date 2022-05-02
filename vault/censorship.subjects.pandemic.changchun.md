@@ -2,7 +2,7 @@
 id: 2ndib8ulrogqu4ttr7oes8v
 title: 长春围城
 desc: ''
-updated: 1648519205512
+updated: 1651461155791
 created: 1648519205512
 ---
 
@@ -21,3 +21,10 @@ created: 1648519205512
 
 >
 長春吉林都吃不上飯了，還要餓著肚子寫防疫小作文感謝政府？？？真太太太太操蛋了
+
+
+
+
+## 参考资料
+
+- [长春网民发布防疫人员摆拍视频被拘留](https://twitter.com/SpeechFreedomCN/status/1509912911463997445?cxt=HHwWioCzmeHypPQpAAAA)
