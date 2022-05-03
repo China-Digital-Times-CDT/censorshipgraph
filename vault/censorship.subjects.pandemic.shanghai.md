@@ -79,3 +79,4 @@ created: 1648432900598
 - [ 上海疫情中，一位清华校友的非正常死亡 ](https://web.archive.org/web/20220404115051/https://mp.weixin.qq.com/s/YYwfdG1rmv244LPs_U0haA)
 - [南汇方舱读者求助：“所有人都在抢，抢米饭抢被子……能不能帮帮我曝光一下。”](https://chinadigitaltimes.net/chinese/679125.html?utm_source=dlvr.it&utm_medium=twitter)
 - [一只柯基被杀死在上海街头](https://chinadigitaltimes.net/chinese/679166.html)
+- [多家商业网站平台就打击涉疫情谣言发布公告](http://www.cac.gov.cn/2022-04/12/c_1651372681780467.htm)
