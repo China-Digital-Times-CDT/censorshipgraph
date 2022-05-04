@@ -14,3 +14,5 @@ created: 1651289290055
 ## 参考资料
 
 - [“谣言”成真。](https://twitter.com/SpeechFreedomCN/status/1520228192434499587?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
+
+- [#捉谣记#金华婺城查处一起散布疫情谣言扰乱公共秩序案件](https://py.zjol.com.cn/pyxw/202204/t20220425_24136365.shtml)
