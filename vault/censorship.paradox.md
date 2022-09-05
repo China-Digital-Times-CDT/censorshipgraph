@@ -2,7 +2,7 @@
 id: IT48LUfzDHXyw5AoEkcve
 title: 悖论
 desc: ''
-updated: 1652867828401
+updated: 1662340184058
 created: 1645239531927
 ---
 
@@ -41,6 +41,11 @@ created: 1645239531927
 ## 李佳琦悖论
 
 你必须要了解所有的政治禁忌，才能避免碰触政治禁忌，但是当你试图去了解所有政府不想让你知道的禁忌，这本身就已经触碰了政治禁忌。
+
+
+## 敏感词毒丸
+因为过多的敏感词和盗版同时泛滥成灾，一些国外的创作者（例如，日本插画师荒川弘）采用了“毒丸”方式在[自己的作品中加入中国墙内的敏感词](https://www.rfa.org/cantonese/news/jpcomic-09022022121936.html?fbclid=IwAR27s8QGpvUX07qejMyhdVl9guN0jnDOdRc8NmkO3mtpFYoYFnQZXPhoSSw)(例如“六四”，“光复香港”等，令中国的盗版使用者不小心就会碰上自己的铁丝网。这种毒丸方式往往奏效，当然也会受到来自中国的小粉红的[攻击](https://www.bnext.com.tw/article/63480/hiromu-arakawa-china?)。
+
 
 ## 参考资料
 
